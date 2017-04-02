@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "nemesis",
+  "name": "Nemesis",
+  "description": "WIP mod that will eventually give you an enemy that learns from you to become stronger!",
   "version": "${version}",
   "mcversion": "${mcversion}",
-  "url": "",
+  "url": "https://github.com/Edicatad/Nemesis",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["Edicatad"],
+  "credits": "Edicatad",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
